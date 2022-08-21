@@ -17,3 +17,4 @@ one_name = input("Найти ім'я: ")
 
 print("Вік " + one_name +" : " + name_and_age[one_name])
 
+#GIT
